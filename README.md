@@ -11,7 +11,3 @@ I love puzzles and challenges, and that’s what draws me to data. To me, workin
 ---
 
 > *"Building bridges between what the data reveals and what the world needs, turning statistical significance into human significance."*
-
-[![](https://visitcount.itsvg.in/api?id=aasthakmr&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

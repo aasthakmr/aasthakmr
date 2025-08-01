@@ -1,4 +1,4 @@
-# Hi there, I'm Aastha!:
+# Hi there, I'm Aastha!
 I love puzzles and challenges, and that’s what draws me to data. To me, working in analytics feels like solving intricate problems—finding patterns, connecting dots, and uncovering stories hidden in numbers. What started as curiosity has grown into a passion for using data to drive clarity and meaningful impact.<br><br>I’m currently pursuing my MS in Business Analytics at the University of Minnesota, where I’ve worked on projects ranging from healthcare fraud detection using network analysis to evaluating policy impacts with causal inference and building time series forecasting models for energy grids. Along the way, I’ve honed my expertise in Python, SQL, R, Tableau, and cloud tools, while also gaining hands-on experience with machine learning, deep learning frameworks, and automated data pipelines.<br><br>For me, data isn’t just numbers—it’s a way to ask better questions, solve challenges with creativity, and transform complexity into insights that move ideas into action.
 
 

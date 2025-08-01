@@ -1,4 +1,7 @@
-# 💫 About Me:
+# 👋 Hello, fellow code wanderer!
+I’m Aastha, a data tinkerer who believes every messy dataset has a story, every bug has a lesson, and every project is an excuse to learn something new.
+
+## 💫 About Me:
 🔭 I’m currently working on:<br>Improving my skills in AI, machine learning, and analytics through hands-on projects and coursework. I spend a lot of time experimenting—whether it’s building models, exploring new datasets, or refining workflows until they’re cleaner and smarter.<br><br>👯 I’m looking to collaborate on:<br>Projects that are practical but interesting, things that involve problem-solving, a bit of creativity, and plenty of learning along the way.<br><br>🤝 I’m looking for help with:<br>Understanding the real-world side of AI/ML: deployments, pipelines, and scaling solutions beyond the "it works on my laptop" stage.<br><br>🌱 I’m currently learning:<br><br>LLMs and transformers (because they’re everywhere)<br><br>Time series forecasting and causal inference<br><br>Cloud tools & automation (Airflow, Spark, AWS/GCP/Azure)<br><br>Writing cleaner, more efficient code<br><br>💬 Ask me about:<br>How I approach data problems, debugging nightmares that eventually become learning moments, or the best logic puzzles to clear your head after coding for hours.<br><br>⚡ Fun fact:<br>I love solving puzzles, I thrive on learning new things, and I genuinely enjoy figuring out how things work, whether it’s code, data, or random everyday stuff.
 
 
